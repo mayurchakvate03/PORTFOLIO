@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import Hero from "./section/Hero.jsx"
-=======
 import Hero from "./section/Hero.jsx";
->>>>>>> e272cccba5a78a638b41c47c50b96db6d991d4e0
 import ShowcaseSection from "./section/ShowcaseSection.jsx";
 import NavBar from "./components/NavBar.jsx";
 import LogoSection from "./components/LogoSection.jsx";
