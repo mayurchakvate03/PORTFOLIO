@@ -1,4 +1,4 @@
-import Hero from "./section/hero.jsx";
+import Hero from "./section/Hero.jsx"
 import ShowcaseSection from "./section/ShowcaseSection.jsx";
 import NavBar from "./components/NavBar.jsx";
 import LogoSection from "./components/LogoSection.jsx";
@@ -12,14 +12,13 @@ const App = () => {
     <>
       <NavBar />
       <Hero />
+      
       <ShowcaseSection />
       <LogoSection />
       <FeatureCard />
-      <ExpericenceSection/>
+      <ExpericenceSection />
       <TechStack />
-      <Contact/>
-
-     
+      <Contact />
     </>
   );
 };

@@ -2,7 +2,7 @@ import React from "react";
 import TitleHeader from "../components/TitleHeader";
 import { techStackIcons } from "../concepts";
 
-import TechIcon from "../components/Models/TechLogos/Techicon";
+import TechIcon from "../components/Models/TechLogos/TechIcon";
 
 const TechStack = () => {
   return (

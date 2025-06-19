@@ -88,28 +88,7 @@ export const abilities = [
   },
 ];
 
-export const techStackImgs = [
-  {
-    name: "React Developer",
-    imgPath: "/images/logos/react.png",
-  },
-  {
-    name: "Java Developer",
-    imgPath: "/images/logos/python.svg",
-  },
-  {
-    name: "Backend Developer",
-    imgPath: "/images/logos/node.png",
-  },
-  {
-    name: "Interactive Developer",
-    imgPath: "/images/logos/three.png",
-  },
-  {
-    name: "Project Manager",
-    imgPath: "/images/logos/git.svg",
-  },
-];
+
 
 export const techStackIcons = [
   {
@@ -147,24 +126,17 @@ export const techStackIcons = [
 export const expCards = [
   {
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
+    title: "Full Stack Developer",
     date: "January 2025 -February 2025",
     responsibilities: [
       "Developed and maintained user-facing features for the  website.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
-    ],
-  },
-  {
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "September 2024 - December 2025",
-    responsibilities: [
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
       "Contributed to open-source projects that were used with the Docker ecosystem.",
     ],
   },
+ 
 ];
 
 export const expLogos = [
@@ -184,21 +156,4 @@ export const expLogos = [
 
 
 
-export const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
-  },
-  {
-    name: "linkedin",
-    imgPath: "/images/linkedin.png",
-  },
-];
+
